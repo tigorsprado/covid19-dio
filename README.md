@@ -1,1 +1,2 @@
-# covi19-dio
+# covi19-dio 
+Desenvolvendo uma progressive web application com React
